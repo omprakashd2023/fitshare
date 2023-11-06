@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "603176767899",
+    "project_id": "fitshare-66137",
+    "storage_bucket": "fitshare-66137.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603176767899:android:d383ebd8c299cdf386513e",
+        "android_client_info": {
+          "package_name": "com.codeforany.fitness"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiTjctraA0H51KUmstZtWQVj7yTykWKFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
